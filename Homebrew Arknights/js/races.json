@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Aegir",
+    "dex": 1,
+    "wis": 1,
+    "talent": "Deep Current",
+    "description": "Sea-born people associated with the ocean, Abyssal Hunters, and unusually strong adaptation."
+  },
+  {
+    "name": "Anaty",
+    "dex": 1,
+    "cha": 1,
+    "talent": "Keen Step",
+    "description": "Small, quick operators with strong instincts and sharp social awareness."
+  },
+  {
+    "name": "Archosauria",
+    "str": 1,
+    "con": 1,
+    "talent": "Ancient Hide",
+    "description": "Reptilian race often framed around endurance, physical force, and survival."
+  },
+  {
+    "name": "Aslan",
+    "str": 1,
+    "cha": 1,
+    "talent": "Royal Bearing",
+    "description": "Lion-like race associated with command presence, pride, and authority."
+  },
+  {
+    "name": "Cautus",
+    "dex": 2,
+    "talent": "Rapid Response",
+    "description": "Rabbit-like race known for speed, alertness, and flexible field movement."
+  },
+  {
+    "name": "Caprinae",
+    "con": 1,
+    "wis": 1,
+    "talent": "Surefooted",
+    "description": "Goat-like people with patience, balance, and strong environmental awareness."
+  },
+  {
+    "name": "Draco",
+    "str": 1,
+    "int": 1,
+    "talent": "Dragon Blood",
+    "description": "Dragon-like race associated with ancient power, intensity, and rare bloodlines."
+  },
+  {
+    "name": "Durin",
+    "con": 1,
+    "int": 1,
+    "talent": "Underground Craft",
+    "description": "A subterranean people associated with craft, toughness, and hidden communities."
+  },
+  {
+    "name": "Elafia",
+    "wis": 2,
+    "talent": "Forest Sense",
+    "description": "Deer-like race often linked to perception, calm judgment, and natural intuition."
+  },
+  {
+    "name": "Feline",
+    "dex": 1,
+    "cha": 1,
+    "talent": "Catlike Grace",
+    "description": "Cat-like people with agility, poise, and a knack for reading the room."
+  },
+  {
+    "name": "Forte",
+    "str": 1,
+    "con": 1,
+    "talent": "Heavy Build",
+    "description": "Large, powerful race suited to labor, defense, and direct confrontation."
+  },
+  {
+    "name": "Liberi",
+    "dex": 1,
+    "int": 1,
+    "talent": "High Outlook",
+    "description": "Bird-like race with broad perspective, quick reactions, and technical aptitude."
+  },
+  {
+    "name": "Lupo",
+    "dex": 2,
+    "cha": 1,
+    "talent": "Pack Instinct",
+    "description": "Wolf-like race with speed, loyalty, and an instinct for coordinated action."
+  },
+  {
+    "name": "Perro",
+    "con": 1,
+    "cha": 1,
+    "talent": "Reliable Partner",
+    "description": "Dog-like race known for dependability, warmth, and team cohesion."
+  },
+  {
+    "name": "Petram",
+    "con": 2,
+    "talent": "Stone Patience",
+    "description": "Turtle-like race with impressive patience, defense, and long-term focus."
+  },
+  {
+    "name": "Pythia",
+    "int": 1,
+    "cha": 1,
+    "talent": "Serpent Guile",
+    "description": "Serpent-like race associated with calculation, subtlety, and controlled presence."
+  },
+  {
+    "name": "Sankta",
+    "dex": 1,
+    "cha": 2,
+    "talent": "Halo",
+    "description": "Laterano's angelic race, often linked to firearms, law, and social resonance."
+  },
+  {
+    "name": "Sarkaz",
+    "str": 2,
+    "con": 1,
+    "talent": "Dark Blood",
+    "description": "Horned race tied to Kazdel's long history, mercenary culture, and resilience."
+  },
+  {
+    "name": "Savra",
+    "dex": 1,
+    "con": 1,
+    "talent": "Heat Adaptation",
+    "description": "Lizard-like race suited to harsh terrain, endurance, and agile survival."
+  },
+  {
+    "name": "Vouivre",
+    "str": 1,
+    "dex": 1,
+    "talent": "Drake Force",
+    "description": "Wyvern-like race with strong physical traits and aggressive momentum."
+  },
+  {
+    "name": "Vulpo",
+    "int": 1,
+    "cha": 1,
+    "talent": "Fox Wit",
+    "description": "Fox-like race known for cleverness, charm, and tactical misdirection."
+  },
+  {
+    "name": "Zalak",
+    "dex": 1,
+    "int": 1,
+    "talent": "Small Target",
+    "description": "Rodent-like race with quick hands, careful planning, and compact movement."
+  }
+]

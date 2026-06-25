@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Rhodes Island",
+    "region": "Mobile landship",
+    "type": "Pharmaceutical, medical, and paramilitary organization",
+    "description": "A crisis-response organization focused on Oripathy treatment, conflict mediation, and field operations."
+  },
+  {
+    "name": "Reunion Movement",
+    "region": "Ursus and wider Terra",
+    "type": "Infected resistance movement",
+    "description": "A militant movement born from Infected oppression, later splintering through tragedy and radicalization."
+  },
+  {
+    "name": "Lungmen",
+    "region": "Yan",
+    "type": "Nomadic city-state",
+    "description": "A wealthy, guarded city with powerful civil administration, underworld influence, and strategic importance."
+  },
+  {
+    "name": "Penguin Logistics",
+    "region": "Lungmen",
+    "type": "Logistics company",
+    "description": "A chaotic but effective courier company known for dangerous delivery work and colorful operators."
+  },
+  {
+    "name": "Blacksteel Worldwide",
+    "region": "Columbia",
+    "type": "Private military company",
+    "description": "A security contractor with professional training, field discipline, and international deployments."
+  },
+  {
+    "name": "Rhine Lab",
+    "region": "Columbia",
+    "type": "Scientific research institute",
+    "description": "A high-end research organization tied to experimental science, ethics conflicts, and Originium technology."
+  },
+  {
+    "name": "Laterano",
+    "region": "Laterano",
+    "type": "Nation and religious authority",
+    "description": "The Sankta homeland, famous for law, faith, firearms, and strict social order."
+  },
+  {
+    "name": "Kazdel",
+    "region": "Kazdel",
+    "type": "Sarkaz homeland",
+    "description": "A fractured nation shaped by war, mercenary companies, royal claims, and Sarkaz history."
+  },
+  {
+    "name": "Kazimierz",
+    "region": "Kazimierz",
+    "type": "Knightly commercial nation",
+    "description": "A nation where chivalry, corporate spectacle, sportsmanship, and political power collide."
+  },
+  {
+    "name": "Leithanien",
+    "region": "Leithanien",
+    "type": "Arts-focused nation",
+    "description": "A nation strongly associated with music, nobility, high culture, and advanced Originium Arts."
+  },
+  {
+    "name": "Ursus",
+    "region": "Ursus",
+    "type": "Imperial nation",
+    "description": "A vast empire marked by military power, harsh social conditions, and deep conflict around the Infected."
+  },
+  {
+    "name": "Victoria",
+    "region": "Victoria",
+    "type": "Major nation",
+    "description": "A powerful state with aristocratic politics, military tradition, and major succession conflicts."
+  },
+  {
+    "name": "Yan",
+    "region": "Yan",
+    "type": "Ancient nation",
+    "description": "A vast eastern nation with long history, regional authorities, and powerful cultural traditions."
+  },
+  {
+    "name": "Iberia",
+    "region": "Iberia",
+    "type": "Coastal nation",
+    "description": "A sea-facing nation scarred by catastrophe, isolation, and fear of oceanic threats."
+  },
+  {
+    "name": "Kjerag",
+    "region": "Kjerag",
+    "type": "Mountain nation",
+    "description": "A remote mountain country shaped by faith, clans, trade, and outside pressure."
+  },
+  {
+    "name": "Sargon",
+    "region": "Sargon",
+    "type": "Desert region",
+    "description": "A vast desert region of tribes, city-states, survival cultures, and ancient legacies."
+  },
+  {
+    "name": "Siracusa",
+    "region": "Siracusa",
+    "type": "City-state network",
+    "description": "A society shaped by families, vendettas, organized crime, and personal loyalty."
+  },
+  {
+    "name": "Ægir",
+    "region": "Oceanic civilization",
+    "type": "Hidden civilization",
+    "description": "A mysterious seaborn civilization tied to advanced knowledge and deep-sea threats."
+  },
+  {
+    "name": "Independent",
+    "region": "Terra",
+    "type": "Unaffiliated",
+    "description": "Operators who work outside formal political, corporate, or national structures."
+  }
+]

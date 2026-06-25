@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Elemental Arts",
+    "ability": "INT",
+    "description": "Direct manipulation of heat, cold, electricity, pressure, or other battlefield forces."
+  },
+  {
+    "name": "Medical Arts",
+    "ability": "WIS",
+    "description": "Stabilization, healing support, diagnostics, and biological intervention through Arts practice."
+  },
+  {
+    "name": "Defensive Arts",
+    "ability": "CON",
+    "description": "Barriers, reinforcement, damage reduction, and survival techniques for prolonged combat."
+  },
+  {
+    "name": "Control Arts",
+    "ability": "INT",
+    "description": "Movement denial, terrain shaping, binding, slowing, and tactical interruption."
+  },
+  {
+    "name": "Enhancement Arts",
+    "ability": "STR",
+    "description": "Temporary physical amplification, weapon reinforcement, and close-combat support."
+  },
+  {
+    "name": "Perception Arts",
+    "ability": "WIS",
+    "description": "Sensing, tracking, prediction, communication, and information-focused techniques."
+  },
+  {
+    "name": "Illusion Arts",
+    "ability": "CHA",
+    "description": "Misdirection, sensory distortion, intimidation, and emotional pressure."
+  },
+  {
+    "name": "Engineering Arts",
+    "ability": "INT",
+    "description": "Arts-assisted devices, drones, constructs, traps, and Originium-powered field tools."
+  },
+  {
+    "name": "No Formal Arts",
+    "ability": "None",
+    "description": "The operator does not rely on Originium Arts as a primary combat method."
+  }
+]

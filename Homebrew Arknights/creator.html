@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Creator | Arknights Terra RPG</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+    <a class="brand" href="index.html">ARKNIGHTS TERRA RPG</a>
+
+    <nav aria-label="Main navigation">
+        <a href="races.html">Races</a>
+        <a href="factions.html">Factions</a>
+        <a href="arts.html">Arts</a>
+        <a href="equipment.html">Equipment</a>
+        <a href="creator.html" aria-current="page">Character Creator</a>
+    </nav>
+</header>
+
+<main class="creator-shell">
+    <section class="builder-panel" aria-labelledby="builder-title">
+        <div class="section-heading">
+            <p>Rhodes Island Registration</p>
+            <h1 id="builder-title">Create Operator</h1>
+        </div>
+
+        <form id="creator-form" class="creator-form">
+            <label>
+                Operator Name
+                <input id="name" name="name" type="text" placeholder="Amiya, Frostleaf, your OC..." maxlength="40" autocomplete="off">
+            </label>
+
+            <div class="form-grid">
+                <label>
+                    Race
+                    <select id="race" name="race"></select>
+                </label>
+
+                <label>
+                    Combat Role
+                    <select id="role" name="role"></select>
+                </label>
+            </div>
+
+            <div class="form-grid">
+                <label>
+                    Faction
+                    <select id="faction" name="faction"></select>
+                </label>
+
+                <label>
+                    Originium Arts
+                    <select id="arts" name="arts"></select>
+                </label>
+            </div>
+
+            <fieldset>
+                <legend>Base Stats</legend>
+                <div class="point-buy-status" id="point-buy-status"></div>
+                <div class="stat-editor" id="stat-editor"></div>
+            </fieldset>
+
+            <label>
+                Notes
+                <textarea id="notes" name="notes" rows="4" placeholder="Background, infection status, combat style, squad history..."></textarea>
+            </label>
+
+            <div class="actions">
+                <button class="button primary-button" type="submit" id="finalize-button">Finalize Operator</button>
+                <button class="button ghost-button" type="button" id="reset-button">Reset</button>
+            </div>
+
+            <p class="form-message" id="form-message" role="status"></p>
+        </form>
+    </section>
+
+    <aside class="sheet-panel" aria-labelledby="sheet-title">
+        <div class="sheet-header">
+            <div>
+                <p>Operator File</p>
+                <h2 id="sheet-title">Unnamed Operator</h2>
+            </div>
+            <div class="sheet-actions" aria-label="Sheet actions">
+                <button class="button ghost-button compact-button" type="button" id="copy-json-button">Copy JSON</button>
+                <button class="button ghost-button compact-button" type="button" id="download-json-button">Download</button>
+                <button class="button ghost-button compact-button" type="button" id="print-sheet-button">Print</button>
+            </div>
+            <span id="sheet-level">Level 1</span>
+        </div>
+
+        <div id="sheet" class="character-sheet"></div>
+    </aside>
+</main>
+
+<script src="js/creator.js"></script>
+
+</body>
+</html>
